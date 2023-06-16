@@ -15,12 +15,6 @@
 
 🔹 Linguagens, dependências e libs utilizadas
 
-🔹 Novas Recursos
-
-🔹 Resolvendo problemas
-
-🔹 Recursos inseridos 
-
 🔹 Desenvolvedores/Contribuintes
 
 🔹 Informações Extras
@@ -50,9 +44,6 @@ Defina os valores que deseja
 C#;
 
 Unity e sua biblioteca padrão
-
-## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
 ## Desenvolvedores/Contribuintes:
 PedroADev
